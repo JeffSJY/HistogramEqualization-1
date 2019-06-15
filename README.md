@@ -1,4 +1,4 @@
-# GrayHistogramEqualization
+# HistogramEqualization
 8位bmp灰度图和24位bmp彩色图的直方图均衡
 
 ---
