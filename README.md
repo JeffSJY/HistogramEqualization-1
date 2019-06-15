@@ -1,0 +1,2 @@
+# GrayHistogramEqualization
+灰度图和彩色图的直方图均衡
